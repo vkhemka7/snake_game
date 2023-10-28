@@ -1,2 +1,2 @@
 # snake_game
-The snake game
+The classic snake game
